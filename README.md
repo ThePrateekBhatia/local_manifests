@@ -34,7 +34,7 @@ This repository contains XML files that help in specifying custom repositories a
         <project name="vendor_xiaomi_veux-gcam"                  path="vendor/xiaomi/veux-gcam"          remote="KRISHNA"  revision="main" />
 
         <!-- ViPER4AndroidFX -->
-        <project name="packages_apps_ViPER4AndroidFX"            path="packages/apps/ViPER4AndroidFX     remote="Viper"    revision="v4a" />
+        <project name="packages_apps_ViPER4AndroidFX"            path="packages/apps/ViPER4AndroidFX"    remote="Viper"    revision="v4a" />
     </manifest>
     ```
 
@@ -42,4 +42,4 @@ This repository contains XML files that help in specifying custom repositories a
 6. **Commit & push the changes to your forked repo**: Once you've made the necessary changes, commit and push the XML file to your forked repository on GitHub.
 7. **Congratulations! Now you can start building your ROM**: With the local_manifests set up, you're ready to start building your custom Android ROM. Best of luck with your ROM-building endeavors!
 
-Feel free to reach out if you have any questions or need further assistance. Happy ROM building!
+Feel free to [reach out if you have any questions or need further assistance](https://t.me/FreakyCatBuilds). Happy ROM building!
